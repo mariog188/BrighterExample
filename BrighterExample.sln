@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrighterExample", "BrighterExample\BrighterExample.csproj", "{4FFD07F2-3743-458E-A658-7E91478FE08D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brighter.Domain", "Brighter.Domain\Brighter.Domain.csproj", "{4DC59084-0F18-4E0B-A955-E0C6D490EC6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4FFD07F2-3743-458E-A658-7E91478FE08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FFD07F2-3743-458E-A658-7E91478FE08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FFD07F2-3743-458E-A658-7E91478FE08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC59084-0F18-4E0B-A955-E0C6D490EC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC59084-0F18-4E0B-A955-E0C6D490EC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC59084-0F18-4E0B-A955-E0C6D490EC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC59084-0F18-4E0B-A955-E0C6D490EC6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
